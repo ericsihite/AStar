@@ -1,6 +1,6 @@
 /*==============================================================================
 	ERIC NAULI SIHITE
-	Made for AutoX coding challenge, 11/30/2017
+	Made for a coding challenge, 11/30/2017
 ==============================================================================*/
 #ifndef ASTAR_H
 #define ASTAR_H
